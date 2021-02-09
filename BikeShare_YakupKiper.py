@@ -56,7 +56,7 @@ def get_filters():
         filter_dm = input('Please enter a valid filter: month, day, both, or none.')
 
 
-    # get user input for month (all, january, february, ... , june)
+    # ge_user input for month (all, january, february, ... , june)
     
     if filter_dm.lower() == 'both' or filter_dm.lower() == 'month':
         month = input("Please enter a month to filter by from january to june.\n")
