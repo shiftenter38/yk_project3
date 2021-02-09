@@ -11,7 +11,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 
 def df_is_null(df):
-    """Checks if the data frame is null and returns a print statement if null."""
+    """Checkss if the data frame is null and returns a print statement if null."""
     
     if df.shape[0] == 0:
         print("There is no data for this filter.")
