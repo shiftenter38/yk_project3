@@ -1,1 +1,0 @@
-https://pandas.pydata.org/pandas-docs/stable/pandas.pdf ==> for pandas examples anda practice
